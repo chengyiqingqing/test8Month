@@ -1,0 +1,2 @@
+include ':app', ':_01testbutterknife', ':_02testviewbyid', ':_03plugindevleop'
+rootProject.name='test8Moth'
